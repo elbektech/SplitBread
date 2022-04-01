@@ -28,39 +28,66 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can create an account
+* User can log in
+* User can add people
+* Users can create a group, and invite others to join 
+* User can request payment from people
+* User can clarify on requested payment(Reason, description, date, etc.)
+* User can verify paying requested payment
+* User can verify recieved payments
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can upload bill
+* User can be notified of finalized payments
+* User can see how much money they paid and received
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Registration Screen
+    * User can create a new account
+* Login Screen
+    * User can log in
+* Home Screen
+    * User can view groups and individuals 
+    * User can pin regular groups and individuals(Optional)
+* Detail Screen
+    * User can view shared expenses (Reason, description, date, etc.)
+    * User can see pending payments 
+    * User can verify payment
+* Notifications Screen
+    * User can view when added to a group
+    * User can view requested money
+    * User can view when someone verifies payment
+* Creation screen
+    * User can create new groups
+    * User can add expenses and add details
+* Profile Screen
+    * User can view and edit profile
+    * User can view successful transactions
+    * User can view total money sent and received(Optional)
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home
+* Detail
+* Notifications
+* Creation 
+* Profile
+
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Registration Screen => Home
+* Login Screen => Home
+* Home Screen => Detail
+* Detail Screen => None
+* Creation Screen => Home (the new created shared expense will appear on the home screen)
+* Profile Screen => None
+* Notifications Screen => None
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
