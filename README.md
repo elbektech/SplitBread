@@ -18,7 +18,7 @@ SplitBread is the easiest way to share expenses with friends and family and stop
 - **Category:** Finance
 - **Mobile:** This app would be primarily developed for mobile and it would also be developed on computer lately. Functionality wouldn’t be limited to mobile devices, however mobile version could potentially have more features. 
 - **Story:** Allows user to make a group where users can share their spending within a group. User can make private friendships for any splitting situation.Keep track of who should pay next, or settle up by recording cash payments or using our integrations.
-- **Market:** Any individual could choose to use this app.There is no age restrictions for this app.Simply anyone could use this app for their convenience when needed.
+- **Market:** Any individual could choose to use this app.There is no age restrictions for this app. Simply anyone could use this app for their convenience when needed.
 - **Habit:** Dependending on users preferences and  social life this app could be used as often or unoften.  
 - **Scope:** 
 
