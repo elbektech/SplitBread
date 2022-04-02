@@ -11,16 +11,16 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+SplitBread is the easiest way to share expenses with friends and family and stop stressing about “who owes who.” User can use SplitBread to organize group bills for households, trips, and more. Our mission is to reduce the stress and awkwardness that money places on our most important relationships.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Finance
+- **Mobile:** This app would be primarily developed for mobile and it would also be developed on computer lately. Functionality wouldn’t be limited to mobile devices, however mobile version could potentially have more features. 
+- **Story:** Allows user to make a group where users can share their spending within a group. User can make private friendships for any splitting situation.Keep track of who should pay next, or settle up by recording cash payments or using our integrations.
+- **Market:** Any individual could choose to use this app.There is no age restrictions for this app.Simply anyone could use this app for their convenience when needed.
+- **Habit:** Dependending on users preferences and  social life this app could be used as often or unoften.  
+- **Scope:** First of all, we would let the user to sign up and create account. User would be given options to add friends by sending email invitations or text messages. User would name a group and choose a group image. This app has a large potential to become one of the most most used apps because nowadays almost everyone needs to keep the track of their spendings.
 
 ## Product Spec
 
